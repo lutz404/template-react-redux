@@ -8,7 +8,7 @@
     "axios": "0.19.2",
     "cogo-toast": "4.2.3",
     "connected-react-router": "6.8.0",
-    "crypto-js": "4.0.0",
+    "crypto-js": "4.2.0",
     "history": "4.10.1",
     "immer": "6.0.3",
     "polished": "3.5.2",
